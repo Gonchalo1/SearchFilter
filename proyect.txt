@@ -1,0 +1,1 @@
+In this proyect, i will develop an search filter of clothes, using PGSQL, Thunder and Git/GitHub.

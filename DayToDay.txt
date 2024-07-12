@@ -1,0 +1,2 @@
+Day1:
+Developing the structure of the proyect, the folders anda files.
